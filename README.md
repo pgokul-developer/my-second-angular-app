@@ -30,3 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Adding Bootstrap
 
 run: `npm install --save bootstrap` in project folder
+
+## Adding a Component with CLI
+
+`ng generate component servers`
+'ng g c servers`
